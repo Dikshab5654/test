@@ -1,0 +1,5 @@
+{{#user}}
+Name: Diksha Bargali
+Skills: HTML, CSS, JS, React.js, C++, SQL
+Email: dikshab927@gmail.com
+{{/user}}
